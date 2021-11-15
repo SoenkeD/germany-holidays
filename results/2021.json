@@ -1,0 +1,730 @@
+{
+  "Baden-Wuerttemberg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "03.06.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Bayern": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "03.06.2021"
+    },
+    {
+      "holiday": "Mari\u00e4 Himmelfahrt",
+      "date": "15.08.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Berlin": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Internationaler Frauentag",
+      "date": "08.03.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Brandenburg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostersonntag",
+      "date": "04.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstsonntag",
+      "date": "23.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Bremen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Hamburg": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Hessen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "03.06.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Mecklenburg-Vorpommern": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Niedersachsen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Nordrhein-Westfalen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "03.06.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Rheinland-Pfalz": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "03.06.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Saarland": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Fronleichnam",
+      "date": "03.06.2021"
+    },
+    {
+      "holiday": "Mari\u00e4 Himmelfahrt",
+      "date": "15.08.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Allerheiligen",
+      "date": "01.11.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Sachsen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2021"
+    },
+    {
+      "holiday": "Bu\u00df- und Bettag",
+      "date": "17.11.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Sachsen-Anhalt": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Heilige Drei K\u00f6nige",
+      "date": "06.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Schleswig-Holstein": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ],
+  "Thueringen": [
+    {
+      "holiday": "Neujahr",
+      "date": "01.01.2021"
+    },
+    {
+      "holiday": "Karfreitag",
+      "date": "02.04.2021"
+    },
+    {
+      "holiday": "Ostermontag",
+      "date": "05.04.2021"
+    },
+    {
+      "holiday": "Tag der Arbeit",
+      "date": "01.05.2021"
+    },
+    {
+      "holiday": "Christi Himmelfahrt",
+      "date": "13.05.2021"
+    },
+    {
+      "holiday": "Pfingstmontag",
+      "date": "24.05.2021"
+    },
+    {
+      "holiday": "Weltkindertag",
+      "date": "20.09.2021"
+    },
+    {
+      "holiday": "Tag der Deutschen Einheit",
+      "date": "03.10.2021"
+    },
+    {
+      "holiday": "Reformationstag",
+      "date": "31.10.2021"
+    },
+    {
+      "holiday": "1. Weihnachtsfeiertag",
+      "date": "25.12.2021"
+    },
+    {
+      "holiday": "2. Weihnachtsfeiertag",
+      "date": "26.12.2021"
+    }
+  ]
+}
